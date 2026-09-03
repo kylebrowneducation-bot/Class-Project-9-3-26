@@ -1,3 +1,7 @@
+from customer import Customer
+from database import CustomerDatabase
+
+
 def display_menu():
     """
     Display main menu
@@ -40,6 +44,7 @@ def main():
     """
     Main program loop
     """
+    print("Welcome to the Customer Database!!")
     pass
 
 if __name__ == "__main__":
