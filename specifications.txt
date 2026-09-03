@@ -1,0 +1,16 @@
+Let’s build a program together!  Write a program that handles customer accounts.   
+The program will have a class called Customer.   
+The customer class should be able to store the following:
+
+
+-Name
+-Address
+-City, State, Zip
+-Telephone Number
+-Account Balance
+-Date of Last Payment
+
+
+The customer class should also be able to store its data in a comma separated value (.csv) file.   
+The class should have the capability to load from the file upon initialization and update the file on command/when the program exits.    
+There should also be commands on performing basic operations.    
